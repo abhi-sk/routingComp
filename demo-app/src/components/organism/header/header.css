@@ -1,0 +1,47 @@
+.headerContainer{
+    width: 100%;
+    height: auto;
+    padding: 0.5rem 0;
+    background-color: rgb(143, 194, 238);
+    display: inline-flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.headerText{
+   padding-left: 1rem;
+   display: inline-flex;
+   justify-content: center;
+   align-items: center; 
+}
+.navbarContainer{
+    display: flex;
+    padding-right: 2rem;
+}
+
+.navbar-Item{
+padding-left: 0.5rem;
+}
+.header-log{
+    height: 4rem;
+    width: 4rem;
+    border: 1px solid rgb(107, 148, 180);
+    border-radius: 10px;
+}
+.companyText{
+    margin: 0;
+    font-family: 'oblique', sans-serif;
+    font-style:italic;
+    font-size: 2.5rem;
+    color: rgb(178, 131, 204);
+    font-weight: bold;
+}
+.sloganText{
+    margin: 0;
+    font-size: small;
+    font-weight: bold;
+    
+}
+.companyTextContainer{
+    padding-left: 1rem;
+}
